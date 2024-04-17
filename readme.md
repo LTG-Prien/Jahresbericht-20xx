@@ -1,2 +1,2 @@
-Hosting der PDF Dateien für den neuen Jahresbericht
-Pfad für PDF Software: https://ltg-prien.github.io/Jahresbericht20xx/Dateiname
+Login at https://ltgarchiv.wanderl.com/wp-admin
+Berechtigte Accounts werden dann freigeschaltet.
